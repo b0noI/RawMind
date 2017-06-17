@@ -1,6 +1,7 @@
 # Topics
 
 * iOS 11;
+* [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html);
 
 # Prev. topics
 
